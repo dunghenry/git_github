@@ -2,24 +2,36 @@
 
 ### Create repository
 
-```git init```
+```
+git init
+```
 
 ### Create file README.md
 
-```git add README.md```
+```
+git add README.md
+```
 
 ### Create commit
 
-```git commit -m "first commit"```
+```
+git commit -m "first commit
+```
 
 ### Create branch
 
-```git branch -M main```
+```
+git branch -M main
+```
 
 ### Managing remote repositories 
 
-```git remote add origin https://github.com/username/repository_name.git```
+```
+git remote add origin https://github.com/username/repository_name.git
+```
 
 ### Pushing to branch
 
-```git push -u origin main```
+```
+git push -u origin main
+```
